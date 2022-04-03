@@ -216,11 +216,13 @@ ul {
 
 .address .street {
     color: var(--hero-text-color);
+    font-style: normal;
 }
 
 .address .link-contact {
     text-decoration: none;
     color: rgba(255, 255, 255, 0.6);
+    font-style: normal;
 }
 
 .address .link-contact:hover,
